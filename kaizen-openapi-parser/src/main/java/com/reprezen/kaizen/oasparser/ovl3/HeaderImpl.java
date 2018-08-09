@@ -431,4 +431,5 @@ public class HeaderImpl extends PropertiesOverlay<Header> implements Header {
 	public Class<?> _getModelType() {
 		return OpenApi3.class;
 	}
+
 }
